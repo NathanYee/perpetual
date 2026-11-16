@@ -1,6 +1,3 @@
-#![allow(unused_features)]
-#![feature(array_ptr_get)]
-
 //! # Perpetual
 //!
 //! `perpetual` is a high-performance, self-generalizing Gradient Boosting Machine (GBM) written in Rust.
